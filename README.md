@@ -1,4 +1,4 @@
-# ABCD Supermarket
+# AZ Supermarket
 
 This is a basic website for supermarket maintainence. It includes features for sales clerk, manager and supplies. At the end it also generates the report showing the total profit or loss with filters.
 
